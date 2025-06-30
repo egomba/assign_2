@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const sesh = require(`express-session`);
 const rando = require(`randomstring`);
+const serverless = require('serverless-http');
 
 const app = express();
 const PORT = 3000;
@@ -230,5 +231,8 @@ app.get('/signout', (req, res) => {
 
 // });
 
+
+// vercel
+module.exports.handler = serverless(app);
 
 
