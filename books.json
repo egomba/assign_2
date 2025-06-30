@@ -1,0 +1,52 @@
+[
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "available": true
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "available": false
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "available": true
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "available": false
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "available": true
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "available": false
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "available": true
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "available": false
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "available": true
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "available": false
+  }
+]

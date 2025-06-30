@@ -1,5 +1,0 @@
-node_modules/
-.env
-books.json
-user.json
-*.log
